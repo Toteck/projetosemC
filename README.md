@@ -1,0 +1,2 @@
+# projetosemC
+ Exercicios em C
