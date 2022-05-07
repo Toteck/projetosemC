@@ -50,3 +50,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+DroughtC/.vscode/launch.json
+DroughtC/.vscode/tasks.json
